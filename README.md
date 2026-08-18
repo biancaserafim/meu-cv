@@ -1,4 +1,5 @@
 # Meu CV — Bianca Serafim
+https://biancaserafim.github.io/meu-cv/
 
 Currículo online desenvolvido para o Trabalho 01 de Tecnologias de Desenvolvimento para Internet III.
 
